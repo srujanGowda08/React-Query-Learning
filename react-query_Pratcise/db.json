@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "sundar pichai Interview",
+      "body": "Disuccing The future of technology"
+    },
+    {
+      "id": "2",
+      "title": "The impact of technology on society",
+      "body": "Exploring how technology is changing our lives"
+    },
+    {
+      "id": "3",
+      "title": "The future of AI",
+      "body": "Predicting the potential impact of AI on society"
+    }
+  ]
+}
