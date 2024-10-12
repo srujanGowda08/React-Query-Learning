@@ -15,5 +15,87 @@
       "title": "The future of AI",
       "body": "Predicting the potential impact of AI on society"
     }
+  ],
+  "fruits": [
+    {
+      "id": "1",
+      "name": "Apple"
+    },
+    {
+      "id": "2",
+      "name": "Banana"
+    },
+    {
+      "id": "3",
+      "name": "Orange"
+    },
+    {
+      "id": "4",
+      "name": "Mango"
+    },
+    {
+      "id": "5",
+      "name": "Pineapple"
+    },
+    {
+      "id": "6",
+      "name": "Grapes"
+    },
+    {
+      "id": "7",
+      "name": "Peach"
+    },
+    {
+      "id": "8",
+      "name": "Cherry"
+    },
+    {
+      "id": "9",
+      "name": "Watermelon"
+    },
+    {
+      "id": "10",
+      "name": "Strawberry"
+    },
+    {
+      "id": "11",
+      "name": "Blueberry"
+    },
+    {
+      "id": "12",
+      "name": "Pear"
+    },
+    {
+      "id": "13",
+      "name": "Papaya"
+    },
+    {
+      "id": "14",
+      "name": "Lemon"
+    },
+    {
+      "id": "15",
+      "name": "Mango"
+    },
+    {
+      "id": "16",
+      "name": "Dragon Fruit"
+    },
+    {
+      "id": "17",
+      "name": "Jackfruit"
+    },
+    {
+      "id": "18",
+      "name": "Rambutan"
+    },
+    {
+      "id": "19",
+      "name": "Coconut"
+    },
+    {
+      "id": "20",
+      "name": "Papaya"
+    }
   ]
 }
