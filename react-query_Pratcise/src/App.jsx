@@ -5,6 +5,7 @@ import PostsRQ from "./components/PostsRQ";
 import Home from "./components/Home";
 import PostDetailRQ from "./components/PostDetailRQ";
 import PaginatedQueries from "./components/PaginatedQueries";
+import InfiniteQueries from "./components/InfiniteQueries";
 // import PostDetails from "./components/PostDetails";
 
 function App() {
@@ -25,6 +26,9 @@ function App() {
             <li>
               <Link to="/paginated-fruits">Fruits</Link>
             </li>
+            <li>
+              <Link to="/fruit-scroll">Scroll Fruits</Link>
+            </li>
           </ul>
         </nav>
         <Routes>
@@ -32,6 +36,7 @@ function App() {
           <Route exact path="/posts" element={<Posts />} />
           <Route exact path="/rq-posts" element={<PostsRQ />} />
           <Route exact path="/rq-posts/:postId" element={<PostDetailRQ />} />
+          <Route exact path="/fruit-scroll" element={<InfiniteQueries />} />
           <Route
             exact
             path="/paginated-fruits"
