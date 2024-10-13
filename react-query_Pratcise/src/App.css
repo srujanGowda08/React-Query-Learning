@@ -157,9 +157,10 @@ nav ul li a.active {
   font-size: 18px;
 }
 .fruit-name {
-  font-size: 42px;
+  font-size: 58px;
   font-weight: 700;
   color: #fff;
+  margin-top: 10px;
   margin-bottom: 20px;
   background-color: #2f3136;
   border-radius: 8px;
